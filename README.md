@@ -54,7 +54,7 @@ The ordered logit model is appropriate when the dependent variable represents **
 
 ## Regression Results
 
-![Ordered Logit Results](outputs/ordered_logit_results.png)
+![Ordered Logit Results](ordered_logit_results.png)
 
 ### Model Statistics
 
