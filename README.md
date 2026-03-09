@@ -112,21 +112,15 @@ Policy recommendations include:
 ---
 
 ## Repository Structure
-
+```
 farmer-enwr-adoption-logit-model
 │
-├── data
-│   └── farmer_adoption_data.csv
-
-├── code
-│   └── ordered_logit_model.do
-
-├── outputs
-│   └── ordered_logit_results.png
-
+├── farmer_adoption_data.csv
+├── farmer_adoption_data.xlsx
+├── ordered_logit_analysis.do
+├── ordered_logit_results.png
 └── README.md
-
----
+```
 
 ## Author
 
