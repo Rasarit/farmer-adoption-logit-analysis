@@ -1,0 +1,2 @@
+import excel "G:\Projects\Farmer-adoption-logit-analysis\farmer_adoption_data.xlsx", sheet("Sheet1") cellrange(B1:L121) firstrow
+ologit OverallSatisfaction InterestRate Age LoanProcedure AccesstoFPOCooperativeSupp DistancetoNearestWDRAWarehou TrustinWarehouseandeNWRSyst NoAdditionalCollateralRequire Landholding RepaymentFlexibility MobileOwnership
